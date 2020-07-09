@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### **Laurie Jones** &mdash; front&ndash;end developer and designer based in Newcastle, Australia.
+### Hey I'm **Laurie Jones** &mdash; front&ndash;end developer and designer based in Newcastle, Australia.
 
 Professionally happiest at the intersection of UX and UI. Passionate about enabling teams to build consistent, high-quality and inclusive user interfaces.
 
